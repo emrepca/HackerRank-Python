@@ -1,1 +1,1 @@
-Some python problems on Hackerrank site.
+Some python examples on Hackerrank site.
